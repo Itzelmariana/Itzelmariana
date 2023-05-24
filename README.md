@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Itzel</h1>
 
 - 👩‍💻 I’m interested in being a front-end or full-stack developer
-- 🌱 I’m currently learning Python and React Native
+- 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on anything!
 - 💼 Check out my [portfolio](https://itzel-cole.netlify.app/)
 
